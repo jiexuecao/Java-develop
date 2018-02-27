@@ -1,2 +1,2 @@
 # Java-develop
-just play 
+it is just a place to store my code
